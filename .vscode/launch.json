@@ -1,0 +1,1 @@
+{\n  \"version\": \"0.2.0\",\n  \"configurations\": [\n    {\n      \"name\": \"Python: Run src/main.py\",\n      \"type\": \"python\",\n      \"request\": \"launch\",\n      \"module\": \"src.main\",\n      \"justMyCode\": true\n    }\n  ]\n}

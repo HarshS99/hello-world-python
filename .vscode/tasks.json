@@ -1,0 +1,1 @@
+{\n  \"version\": \"2.0.0\",\n  \"tasks\": [\n    {\n      \"label\": \"Setup and Run\",\n      \"type\": \"shell\",\n      \"command\": \"pip install -r requirements.txt && python -m src.main\",\n      \"problemMatcher\": [],\n      \"runOn\": \"folderOpen\"\n    }\n  ]\n}

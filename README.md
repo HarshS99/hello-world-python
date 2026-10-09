@@ -1,0 +1,1 @@
+# Hello World Python\n\nA simple Python project that prints **Hello, World!** to the console.\n\n## Run\n\n```bash\npython -m src.main\n```
